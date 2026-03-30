@@ -7,8 +7,8 @@
 
 | Field | Details |
 |---|---|
-| **Student Name** | *RAHUL KUMAR DWIVEDI* |
-| **Registration Number** |  *24BCE10973* |
+| **Student Name** | *Yuvraj Singh* |
+| **Registration Number** |  *24BCE10817* |
 | **Chosen Software** | Git |
 | **Licence of Software** | GNU General Public License v2 (GPL v2) |
 | **Course** | Open Source Software (OSS NGMC) |
